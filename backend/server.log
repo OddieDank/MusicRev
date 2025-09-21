@@ -1,0 +1,103 @@
+Watching for file changes with StatReloader
+Bad Request: /api/users/register/
+[12/Sep/2025 01:04:56] "POST /api/users/register/ HTTP/1.1" 400 81
+Bad Request: /api/users/register/
+[12/Sep/2025 01:05:19] "POST /api/users/register/ HTTP/1.1" 400 81
+Bad Request: /api/auth/token/
+[12/Sep/2025 01:06:53] "POST /api/auth/token/ HTTP/1.1" 400 81
+C:\Users\julia\OneDrive\Documentos\MusicRev\backend\tracks\serializers.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 12, 2025 - 01:03:44
+Django version 5.2.1, using settings 'musicrev.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+C:\Users\julia\OneDrive\Documentos\MusicRev\backend\tracks\serializers.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 12, 2025 - 01:15:02
+Django version 5.2.1, using settings 'musicrev.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+C:\Users\julia\OneDrive\Documentos\MusicRev\backend\tracks\serializers.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 12, 2025 - 01:15:35
+Django version 5.2.1, using settings 'musicrev.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+C:\Users\julia\OneDrive\Documentos\MusicRev\backend\tracks\views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 12, 2025 - 01:16:32
+Django version 5.2.1, using settings 'musicrev.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+C:\Users\julia\OneDrive\Documentos\MusicRev\backend\tracks\views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 12, 2025 - 01:16:50
+Django version 5.2.1, using settings 'musicrev.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+C:\Users\julia\OneDrive\Documentos\MusicRev\backend\tracks\views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 12, 2025 - 01:17:03
+Django version 5.2.1, using settings 'musicrev.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+C:\Users\julia\OneDrive\Documentos\MusicRev\backend\tracks\views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 12, 2025 - 01:17:29
+Django version 5.2.1, using settings 'musicrev.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+C:\Users\julia\OneDrive\Documentos\MusicRev\backend\tracks\views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 12, 2025 - 01:18:37
+Django version 5.2.1, using settings 'musicrev.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
